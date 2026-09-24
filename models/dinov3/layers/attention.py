@@ -1,5 +1,7 @@
 # the terms of the DINOv3 License Agreement.
 
+from __future__ import annotations
+
 import math
 from typing import List, Tuple
 

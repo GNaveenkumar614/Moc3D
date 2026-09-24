@@ -1,5 +1,7 @@
 # the terms of the DINOv3 License Agreement.
 
+from __future__ import annotations
+
 import logging
 from functools import partial
 from typing import Any, Dict, List, Literal, Optional, Sequence, Tuple, Union

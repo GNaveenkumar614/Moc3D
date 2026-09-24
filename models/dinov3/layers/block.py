@@ -1,5 +1,7 @@
 # the terms of the DINOv3 License Agreement.
 
+from __future__ import annotations
+
 from typing import Callable, List, Optional
 
 import torch
